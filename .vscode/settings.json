@@ -1,0 +1,21 @@
+{
+  "[vue]": {
+    "editor.formatOnSave": true,
+    "editor.wordWrapColumn": 80
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": false,
+    "source.fixAll.eslint": true,
+    "source.organizeImports": false
+  },
+  "prettier.enable": false,
+  "errorLens.enabledDiagnosticLevels": ["warning", "error"],
+  "errorLens.excludeBySource": [
+    "cSpell",
+    "Grammarly",
+    "eslint"
+  ],
+  "cSpell.words": [
+    "Vitebvt"
+  ]
+}
