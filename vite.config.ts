@@ -29,7 +29,7 @@ export default defineConfig({
         '@vueuse/core',
         {
           '~/store': ['useUserStore'],
-          '~/hooks': ['useRouterPermission', 'useLoading'],
+          '~/composables': ['useRouterPermission', 'useLoading'],
         },
       ],
       dts: './src/types/auto-imports.d.ts',
