@@ -2,6 +2,7 @@
   "compilerOptions": {
     "composite": true,
     "module": "esnext",
+    "target": "esnext",
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
     "types": ["vitest"]

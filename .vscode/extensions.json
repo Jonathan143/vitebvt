@@ -4,6 +4,6 @@
     "antfu.unocss",
     "csstools.postcss",
     "dbaeumer.vscode-eslint",
-    "johnsoncodehk.volar"
+    "Vue.volar"
   ]
 }
