@@ -2,7 +2,7 @@
 Mocking up web app with <b>Vitebvt</b><sup><em>(speed)</em></sup><br>
 </p>
 
-<p align="center">[![Netlify Status](https://api.netlify.com/api/v1/badges/97dfd5e6-0e45-45dc-9f9a-50c84efedc2d/deploy-status)](https://app.netlify.com/sites/vitebvt/deploys)</p>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/97dfd5e6-0e45-45dc-9f9a-50c84efedc2d/deploy-status)](https://app.netlify.com/sites/vitebvt/deploys)
 
 ## Features
 
