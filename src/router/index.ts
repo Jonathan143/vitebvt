@@ -23,7 +23,9 @@ router.beforeEach(async (to, from, next) => {
   }
   const { ignoreAuth = false } = to.meta
 
-  if (ignoreAuth) { next() }
+  if (ignoreAuth) {
+    next()
+  }
   else if (userStore.token) {
     crossroads()
   }
